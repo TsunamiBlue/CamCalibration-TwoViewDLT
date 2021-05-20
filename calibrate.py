@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image
 import matplotlib.pyplot as plt
 #
-I = Image.open('stereo2012a.jpg');
+I = Image.open('Left.jpg')
 
 plt.imshow(I)
 uv = plt.ginput(6) # Graphical user interface to get 6 points

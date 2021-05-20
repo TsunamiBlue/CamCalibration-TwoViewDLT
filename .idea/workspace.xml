@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="baa75979-4b69-4e59-86e5-894d77a88b74" name="Default Changelist" comment="" />
+    <list default="true" id="baa75979-4b69-4e59-86e5-894d77a88b74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/okay-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/okay-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calibrate.py" beforeDir="false" afterPath="$PROJECT_DIR$/calibrate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/okay.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/okay.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgg_KR_from_P.py" beforeDir="false" afterPath="$PROJECT_DIR$/vgg_KR_from_P.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1scZaQPpt1exfp023b2V953W7Jl" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Clab3_u6234544" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -65,5 +74,18 @@
       <updated>1621173900205</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
